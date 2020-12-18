@@ -1,5 +1,6 @@
 # DL_algorithmicFairness
 02456 Deep learning, DTU Fall 2020
+
 Ida Villumsen (s154412), Line Vognsen (s164227), Nanna Markers (s164262)
 
 Get access to data by making a copy to drive of the files list_eval_partition.txt, list_attr_celeba.txt and img_align_celeba.zip from
